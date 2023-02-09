@@ -30,4 +30,4 @@
    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierchia&show_icons=true&locale=en&layout=compact" alt="javierchia" />&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=javierchia&show_icons=true&locale=en" alt="javierchia" />
 <div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierchia&" alt="javierchia" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=javierchia&" alt="javierchia" /></p>
