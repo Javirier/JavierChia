@@ -17,13 +17,16 @@
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="45px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="ReactNative" width="45px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /></a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img img align="left" alt="React" width="43px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/></a>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" alt="Node.js" width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 
 <a href="https://www.mysql.com/" targert="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>
+
+<a href="https://learning.postman.com/docs/getting-started/introduction/" targert="_blank" rel="noreferrer"><img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" /></a>
+
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
