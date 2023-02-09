@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<p align="left">
+
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
 <a href="https://html.com/" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
@@ -42,7 +42,6 @@
 
 <a href="https://git-scm.com/" targert="_blank" rel="noreferrer"><img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 
-</p>
 
 <br />
 <br />
