@@ -9,15 +9,15 @@
 
 ### Languages and Tools:
 
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://html.com/" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
+<a href="https://html.com/" target="_blank" rel="noreferrer"><img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="50px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" />
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="40px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" />
 </a>
 
 
