@@ -17,7 +17,7 @@
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="40px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" />
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="45px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" />
 </a>
 
 
