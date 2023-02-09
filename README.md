@@ -1,4 +1,4 @@
-![MasterHead](Banner.gif)
+![MasterHead]("Banner.gif")
 <h1 align="center">Hi there, I'm Javier 👋</h1>
 <h3 align="center">An 18 year old student currently pursuing a Diploma in Information Technology!!</h3>
 
