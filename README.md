@@ -1,8 +1,4 @@
-<div style="align-items: center;">
-
-# Hi there, I'm Javier 👋
-
-</div>
+<h1 align="center">Hi there, I'm Javier 👋</h1>
 
 ## I'm an 18 year old student currently pursuing a Diploma in Information Technology!!
 
