@@ -1,9 +1,6 @@
 <img src="Banner.gif" />
 
-
-
-<p align="left" display="flex" flex-direction="row"> <h2> About me </h2> <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" /> </p>
-</p>
+<p align="left"> <h2> About me <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" />  </h2> </p>
 
 - 😎 I am turning 18 this year!
 
@@ -31,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierchia&show_icons=true&locale=en" alt="javierchia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierchia&" alt="javierchia" /></p>
-
