@@ -1,6 +1,6 @@
 <img src="Banner.gif" />
 
-<p> <h2> About me <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat"  align="right" alt="javierchia" />  </h2> </p>
+<p> <h1> About me <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat"  align="right" alt="javierchia" />  </h1> </p>
 
 - 😎 I am turning 18 this year!
 
