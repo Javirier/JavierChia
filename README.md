@@ -1,4 +1,12 @@
-![MasterHead](https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318)
+<style>
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
+<img class="banner" src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318">
+
 <h1 align="center">Hi there, I'm Javier 👋</h1>
 <h3 align="center">An 18 year old student currently pursuing a Diploma in Information Technology!!</h3>
 
