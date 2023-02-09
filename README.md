@@ -1,6 +1,6 @@
 # Hi there, I'm Javier 👋
 
-## I'm an 18 year old student currently pursuing a Diploma in Information Technology!!
+<h3>I'm an 18 year old student currently pursuing a Diploma in Information Technology!!</h3>
 
 - 🌱 I’m currently learning **React**
 - 🥋 I practice **taekwondo**, and am currently a **1st dan**!
