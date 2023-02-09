@@ -32,7 +32,9 @@
 <a href="https://www.python.org/" targert="_blank" rel="noreferrer"><img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /></a>
 
 <a href="https://www.figma.com/ui-design-tool/" targert="_blank" rel="noreferrer"><img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" /></a>
+
 <br />
+
 <a href="https://git-scm.com/" targert="_blank" rel="noreferrer"><img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 
 <br />
