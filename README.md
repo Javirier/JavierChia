@@ -19,7 +19,7 @@
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="45px" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" /></a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img img align="left" alt="React" width="43px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/></a>
 
 
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
