@@ -1,6 +1,6 @@
 <img src="Banner.gif" />
 
-<p style="display:flex; justify-content: space-between;"> <h2 style="display: flex; flex-direction: row; justify-content: space-between"> About me <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" />  </h2> </p>
+<p> <h2 style="display: flex; flex-direction: row; justify-content: space-between"> About me &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" />  </h2> </p>
 
 - 😎 I am turning 18 this year!
 
