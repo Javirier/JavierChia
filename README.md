@@ -1,9 +1,7 @@
 <img src="Banner.gif" />
-<h1 align="center">Hi there, I'm Javier 👋</h1>
-<h3 align="center">An 18 year old student currently pursuing a Diploma in Information Technology!!</h3>
+<h1 align="center">I'm a 18 year old student currently pursuing a Diploma in Information Technology!!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on my **Personal Portfolio Website**
