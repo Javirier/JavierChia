@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1f4L2UmPRBW5N99WiobrlnLha_nSDH6zZ/view?usp=share_link)
+![MasterHead](Banner.gif)
 <h1 align="center">Hi there, I'm Javier 👋</h1>
 <h3 align="center">An 18 year old student currently pursuing a Diploma in Information Technology!!</h3>
 
