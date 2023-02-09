@@ -1,8 +1,7 @@
 # Hi there, I'm Javier 👋 
 
-## I'm a 18 yearold student currently pursuing a Diploma in Information Technology!!
+<div style="text-align:center;"> ## I'm an 18 year old student currently pursuing a Diploma in Information Technology!! </div>
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning **React**
 - 🥋 I practice **taekwondo**, and am currently a **1st dan**!
 - 💻 I am currently studying in Singapore Polytechnic **[2022 - 2024]**
