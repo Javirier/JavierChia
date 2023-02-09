@@ -1,5 +1,7 @@
 <center>
-# Hi there, I'm Javier 👋 hi
+
+# Hi there, I'm Javier 👋
+
 </center>
 
 ## I'm an 18 year old student currently pursuing a Diploma in Information Technology!!
