@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <h2> About me </h2> <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" /> </p>
+<p align="left" display="flex" flex-direction="row"> <h2> About me </h2> <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" /> </p>
 </p>
 
 - 😎 I am turning 18 this year!
