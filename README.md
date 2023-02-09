@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Javier 👋</h1>
+## Hi there, I'm Javier 👋
 
-## I'm an 18 year old student currently pursuing a Diploma in Information Technology!!
+<h1 align="center"> I'm an 18 year old student studying Information Technology!!!</h1>
 
 - 🌱 I’m currently learning **React**
 - 🥋 I practice **taekwondo**, and am currently a **1st dan**!
