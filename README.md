@@ -1,5 +1,5 @@
 <img src="Banner.gif" />
-<h1 align="center">I'm a 18 year old IT student!!</h1>
+<h1 align="left">I'm a 18 year old IT student!!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierchia&label=Profile%20views&color=0e75b6&style=flat" alt="javierchia" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
