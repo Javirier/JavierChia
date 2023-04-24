@@ -12,8 +12,6 @@
 
 - 🥋 I practice taekwondo, and am currently a **1st dan!**
 
-- ⚡ Fun fact: I can get **sturdy** 🤭
-
 <h3>Connect with me:</h3>
 <p>
 <a href="https://instagram.com/javirier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javirier" height="30" width="40" /></a>
